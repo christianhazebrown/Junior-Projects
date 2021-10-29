@@ -1,0 +1,8 @@
+Howwork assigment 1:
+	Craete a singly linked list as well as a double linked list that has the funstions:
+			1. insert at head
+			2. insert at tail
+			3. delete head
+			4. delete tail
+			5. search and delete
+			6. print SLL and DLL
